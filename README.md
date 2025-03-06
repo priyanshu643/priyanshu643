@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**priyanshu643/priyanshu643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Priyanshu Raj
+📚 Diploma in Electrical Engineering | 2nd Year
+🏫 GKV Haridwar
 
-Here are some ideas to get you started:
+🚀 Passionate about IoT, Embedded Systems, and Automation
+⚡ Skilled in Arduino & ESP32
+🔌 Expert in Serial Communication and low-level programming
+💡 Innovating and building projects that merge hardware with software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Currently exploring:
+
+IoT Solutions 🌐
+Smart Home Automation 🏠
+Wearable Tech & Smart Devices ⌚
+Wireless Communication 📡
+💬 Open to collaboration on exciting open-source projects, tech discussions, or innovative solutions! Let's build the future together.
+
+📧 Contact me: pr590315@gmail.com
